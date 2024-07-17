@@ -1,6 +1,7 @@
 # nvellingiri.github.io
-Vellingiri Home Page
----
-title: "Vellingiri Nachimuthu"
-subtitle: "Assistant Professor"
----
+Vellingiri Home Page 
+
+| Detail | Description |
+| ----------- | ----------- |
+| title | Vellingiri Nachimuthu |
+| subtitle | Assistant Professor |
