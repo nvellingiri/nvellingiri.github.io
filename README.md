@@ -4,4 +4,4 @@ Vellingiri Home Page
 | Detail | Description |
 | ----------- | ----------- |
 | title | Vellingiri Nachimuthu |
-| subtitle | Assistant Professor |
+| subtitle | Summer Course Student of LSE |
